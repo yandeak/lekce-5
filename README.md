@@ -1,4 +1,4 @@
-lekce-5
-=======
+Repozitář pro lekci č. 5
+========================
 
-2014/15 - první seznámení s Gitem
+Detaily jsou [zde](http://alej.alisma.cz/prog/pg05).
